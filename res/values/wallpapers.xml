@@ -17,6 +17,11 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_gdx1</item>
+        <item>wallpaper_gdx2</item>
+        <item>wallpaper_gdx3</item>
+        <item>wallpaper_gdx4</item>
+        <item>wallpaper_gdx5</item>
         <item>wallpaper_fitsnugly_cmearth</item>
         <item>wallpaper_jai_cmchrome</item>
         <item>wallpaper_prash_revolutionary</item>
@@ -45,6 +50,11 @@
     </string-array>
 
     <string-array name="info" translatable="false">
+        <item>GingerDX 1 :: deedii</item>
+        <item>GingerDX 2 :: deedii</item>
+        <item>GingerDX 3 :: deedii</item>
+        <item>GingerDX 4 :: deedii</item>
+        <item>GingerDX 5 :: deedii</item>
         <item>CM Earth :: Fitsnugly</item>
         <item>CM Chrome :: JaiThemes</item>
         <item>Revolutionary :: Prash</item>

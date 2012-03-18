@@ -47,6 +47,17 @@
         <item>wallpaper_jai_cmskateteam</item>
         <item>wallpaper_jai_cmwoodedbg</item>
         <item>wallpaper_boobies</item>
+		<item>wallpaper_architecture</item>
+		<item>wallpaper_bubblegum</item>
+		<item>wallpaper_canyon</item>
+		<item>wallpaper_chroma</item>
+		<item>wallpaper_escape</item>
+		<item>wallpaper_fidelity</item>
+		<item>wallpaper_flora</item>
+		<item>wallpaper_kepler</item>
+		<item>wallpaper_leaf</item>
+		<item>wallpaper_noir</item>
+		<item>wallpaper_outofthebox</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -80,5 +91,16 @@
         <item>Skate Team :: JaiThemes</item>
         <item>Wooded :: JaiThemes</item>
         <item>Yeah, that. :: Hans Stieglitz, CC, modified by arcee</item>
+		<item>Architecture :: Google</item>
+		<item>Bubblegum :: Google</item>
+		<item>Canyon :: Google</item>
+		<item>Chroma :: Google</item>
+		<item>Escape :: Google</item>
+		<item>Fidelity :: Google</item>
+		<item>Flora :: Google</item>
+		<item>Kepler :: Google</item>
+		<item>Leaf :: Google</item>
+		<item>Noir :: Google</item>
+		<item>Out of the Box :: Google</item>
     </string-array>
 </resources>
